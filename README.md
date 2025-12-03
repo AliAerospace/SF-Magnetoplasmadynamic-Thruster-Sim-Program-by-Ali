@@ -1,0 +1,2 @@
+# SF-Magnetoplasmadynamic-Thruster-Sim-Program-by-Ali
+A complete simulator for a Self Field Magnetoplasmadynamic Thruster for Multiple gases. User-friendly interface. 1D quasi-neutral plasma model with ordinary differential equations (Maxwell equations) based on conservation of mass, momentum, and magnetic induction. ODE45 used with advanced handling conditions for subsonic/supersonic transitions.
