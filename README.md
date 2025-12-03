@@ -1,10 +1,17 @@
-# Complete Self-Field Magnetaplasmadynamic Satellite Thruster Simulation Program by Ali
+Complete Self-Field Magnetaplasmadynamic Satellite Thruster Simulation Program by Ali
 
 A **complete** simulator for a Self Field Magnetoplasmadynamic Thruster for Multiple gases.
 
 This simulator solves the complete quasi-neutral plasma model (1D) with ordinary differential equations (based on Maxwell equations) of conservation of mass, momentum, magnetic induction, and so on and so forth. ODE45 Runge-Kutta used with advanced handling conditions for subsonic/supersonic transitions.
 
 A MATLAB-based interactive simulator and visualisation tool for analyzing **self-field magnetoplasmadynamic (MPD) thrusters**.
+
+
+
+https://github.com/user-attachments/assets/7a32697c-b89a-483d-bebd-aafa3bb9efcb
+
+
+
 
 ## 🚀 Features
 - Full **Easy-to-use GUI Interface** (no dependencies)
@@ -55,4 +62,7 @@ A MATLAB-based interactive simulator and visualisation tool for analyzing **self
    *Performance Characteristics of Magnetoplasmadynamic Arc Thrusters.*  
    *AIAA Journal*, Vol. 21, No. 9, 1983, pp. 1262–1271.  
 
+<img width="1488" height="817" alt="2025-12-03_02-51-15" src="https://github.com/user-attachments/assets/82b95fd0-6abe-4215-9d7f-727ff536ee97" />
+<img width="1486" height="816" alt="2025-12-03_02-51-37" src="https://github.com/user-attachments/assets/ab211249-df2e-47c0-b8b1-d416a1426684" />
+<img width="1488" height="818" alt="2025-12-03_02-51-26" src="https://github.com/user-attachments/assets/c464d1e3-6a3f-41ef-a52f-e4720ed9da67" />
 
