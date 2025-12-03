@@ -1,4 +1,4 @@
-# Self-Field Magnetaplasmadynamic Complete Thruster Simulator Program(AliAerospace)
+# Complete Self-Field Magnetaplasmadynamic Satellite Thruster Simulation Program by Ali
 
 A **complete** simulator for a Self Field Magnetoplasmadynamic Thruster for Multiple gases.
 
